@@ -1,6 +1,14 @@
+// lab4.6.cpp
+// <Сташкевич Владислав>
+// Лабораторна робота № 4.6
+// Вкладені цикли.
+// Варіант 19
+
 #include <iostream>
 #include <cmath>
+
 using namespace std;
+
 int main() {
 	double P, Sum;
 	int k, n;
